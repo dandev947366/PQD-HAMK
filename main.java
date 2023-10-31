@@ -12,7 +12,7 @@ public class main{
 		car1.printData();
 		
 		System.out.println("-----------------");
-		Car car2 = new Car("Volvo", "CX50", 0);
+		Car car2 = new Car("Ford", "Mustang", 45);
 		car2.printData();
 		car2.accelerate();
 		car2.carBreak();
