@@ -31,6 +31,7 @@ public class main{
 		car3.refuel(40);
 		System.out.println("New car3 values: ");
 		car3.printData();
+		//QuanLNM Test 1
 	}
 	
 	
