@@ -23,7 +23,7 @@ public class main{
 		
 		
 		System.out.println("-----------------");
-		Car car3 = new Car("Honda", "Accord", 10);
+		Car car3 = new Car("Honda", "Accord", 40);
 		car3.printData();
 		car3.accelerate();
 		car3.carBreak();
